@@ -32,7 +32,7 @@
 5. 다른 터미널 열고 이 프로젝트에서 npm start
 6. 브라우저 여러개 열어서 테스트해보기
 
-## 참고사항
+## 특이사항
 - useEffect가 2번씩 실행돼서 StrictMode를 껐습니다. 끄지 않고도 해결하는 방법을 아신다면 조치해주시면 감사하겠습니다...
 - 제가 작성한 프론트 코드는 App.js, CollaborativeEditor.js, index.css 입니다.
    - index.css에는 텍스트에디터인 quill의 디자인 스타일만 추가했습니다.
@@ -42,3 +42,7 @@
 
 ![6-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/6a2f33a4-6649-4f3b-89d4-6b431ef32826)
 - 리액트가 미숙해서, 현재 이런 현상이 있습니다...
+
+## 참조
+- https://github.com/yjs/yjs-demos
+- https://docs.yjs.dev/
